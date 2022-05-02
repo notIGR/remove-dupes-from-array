@@ -11,9 +11,10 @@
  * @param a {number[]}
  * **/
 const noDupes = (a) => {
-for(i = 0, i < noDupes.length, i++) {
-//	noDupes.filter === noDupes[i] *****
+for(let i = 0; i < a.length; i++) {
 }
+//	noDupes.filter === noDupes[i] *****
+const dupNums = a.filter(a => num === i)
 	// return the new array with no dupes
 }
 
