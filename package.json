@@ -1,0 +1,16 @@
+{
+  "name": "no-dupes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "tests": "jest --verbose",
+    "numbers": "jest numbers --verbose",
+    "strings": "jest strings --verbose"
+  },
+  "author": "azat valiev",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
